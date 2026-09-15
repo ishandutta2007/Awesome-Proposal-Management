@@ -60,7 +60,7 @@ While polished all-in-one commercial deal rooms are predominantly SaaS products,
 
 Below are top open-source projects sorted by **GitHub Star Count (descending)**:
 
-| Project / Repository | Description | Category | Stars |
+| Project / Repository | Description | Category | Github_Stars |
 | :--- | :--- | :--- | :--- |
 | **[Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)** | Robust locally-hosted web-based PDF manipulation tool for splitting, merging, converting, and signing proposals. | PDF Generation & Editing | [![Stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=social&color=white)](https://github.com/Stirling-Tools/Stirling-PDF/stargazers) |
 | **[typst/typst](https://github.com/typst/typst)** | Modern markup-based document compiler built in Rust; faster and more readable than LaTeX for generating beautiful PDF proposals. | Document Compilation | [![Stars](https://img.shields.io/github/stars/typst/typst?style=social&color=white)](https://github.com/typst/typst/stargazers) |
