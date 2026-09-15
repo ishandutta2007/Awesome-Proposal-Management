@@ -38,65 +38,17 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## SaaS/Hosted Platforms
-
-- **[PandaDoc](https://www.pandadoc.com/)**  
-
-  Popular all-in-one proposal, contract, and e-signature platform with templates, content library, payments, and CRM integrations.
-
-
-
-- **[Proposify](https://www.proposify.com/)**  
-
-  Proposal software focused on sales teams, offering templates, content control, pipeline tracking, and engagement analytics.
-
-
-
-- **[Qwilr](https://qwilr.com/)**  
-
-  Interactive web-based proposal platform that turns quotes into responsive web pages with modern design and tracking.
-
-
-
-- **[GetAccept](https://www.getaccept.com/)**  
-
-  Digital sales room and proposal platform combining documents, video, chat, e-signatures, and deal collaboration.
-
-
-
-- **[Responsive](https://www.responsive.io/)**  
-
-  RFP and proposal response platform (formerly RFPIO ecosystem) focused on content libraries and efficient response management.
-
-
-
-- **[Better Proposals](https://betterproposals.io/)**  
-
-  Simple, fast proposal tool designed for quick creation, sending, and e-signature of professional proposals.
-
-
-
-- **[Loopio](https://www.loopio.com/)**  
-
-  RFP response and proposal management platform centered on content libraries, collaboration, and win-rate improvement.
-
-
-
-- **[RFPIO / Responsive](https://www.responsive.io/)**  
-
-  Enterprise RFP and proposal automation platform with strong knowledge-base and response workflow capabilities.
-
-
-
-- **[ClientPoint](https://www.clientpoint.com/)**  
-
-  Proposal and sales document platform used for creating and managing client-facing proposals and related materials.
-
-
-
-- **[Nusii](https://www.nusii.com/)**  
-
-  Proposal software aimed at freelancers and agencies for creating, sending, and tracking professional proposals.
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[PandaDoc](https://www.pandadoc.com/)** | All-in-one proposal, contract, and e-signature platform with templates, content library, and CRM integrations. | $19/user/month (Starter tier, billed annually) | Free eSign Plan (up to 5 documents/month, 2 recipients/doc, 5 templates) & 14-day free trial |
+| **[Proposify](https://www.proposify.com/)** | Proposal software focused on sales teams, offering templates, content control, and engagement analytics. | $19/user/month (Basic tier) | No free plan; 14-day free trial of Team plan |
+| **[Qwilr](https://qwilr.com/)** | Interactive web-based proposal platform that turns quotes into responsive web pages. | $35/user/month (Starter tier, billed annually) | No free plan; 14-day free trial |
+| **[GetAccept](https://www.getaccept.com/)** | Digital sales room and proposal platform combining documents, video, chat, and e-signatures. | $25/user/month (eSign tier) | No free plan; 14-day free trial |
+| **[Responsive](https://www.responsive.io/)** *(formerly RFPIO)* | Enterprise RFP and proposal response platform centered on content libraries and automation. | Custom quote-based pricing (Est. ~$6,500/year platform base) | No free plan; No public free trial (custom sales demo required) |
+| **[Better Proposals](https://betterproposals.io/)** | Simple proposal tool designed for quick creation, sending, and e-signature of professional proposals. | $13/user/month (Starter tier) | No free plan; 14-day free trial |
+| **[Loopio](https://www.loopio.com/)** | RFP response and proposal management platform centered on content libraries and collaboration. | Custom quote-based pricing (Est. ~$20,000/year starting package) | No free plan; No free trial (sales demo required) |
+| **[ClientPoint](https://www.clientpoint.com/)** | Proposal and sales document platform for creating and managing client-facing materials. | $42/month (Small Business tier) | No standard free plan; Contact sales for custom trial access |
+| **[Nusii](https://www.nusii.com/)** | Proposal software aimed at freelancers and agencies for creating, sending, and tracking proposals. | $29/month (Freelancer tier, up to 5 active proposals) | No free plan; 14-day free trial (no credit card required) |
 
 
 
